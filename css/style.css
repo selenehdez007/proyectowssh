@@ -20,3 +20,9 @@ color:rgb(88, 88, 89)
     color: rgb(88, 88, 89);
     margin-top: 100px;
 }
+body {
+            text-align: center;
+        }
+        .menuHorizontal {
+            display: inline-block;
+        }
